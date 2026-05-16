@@ -10,3 +10,4 @@
 4. Дизайн-студия имени Слишком Известного Персонажа
 [Нас можно найти в](google.com.)
 
+[2zadanie](https://github.com/tsecemcka/Zadanie/tree/new-text)
